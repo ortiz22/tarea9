@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.laila.dao;
+package com.analia.dao;
 
-import com.laila.config.Conexion;
-import com.laila.model.Contacto;
+import com.analiaconfig.Conexion;
+import com.analia.model.Contacto;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

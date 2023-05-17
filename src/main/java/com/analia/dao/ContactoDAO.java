@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
-package com.laila.dao;
+package com.analia.dao;
 
-import com.laila.model.Contacto;
+import com.analia.model.Contacto;
 import java.util.List;
 
 
